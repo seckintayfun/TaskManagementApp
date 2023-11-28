@@ -1,0 +1,25 @@
+.button {
+  font: inherit;
+  cursor: pointer;
+  padding: 0.5rem 2rem;
+  border-radius: 24px;
+}
+
+.disabled {
+  border: none;
+}
+
+.submit {
+  color: white;
+  background-color: #af65de;
+  border: 1px solid #af65de;
+}
+
+.submit:hover {
+  color: #af65de;
+  background-color: white;
+  border-color: white;
+}
+
+.cancel {
+}

@@ -1,0 +1,22 @@
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.task p {
+  font-style: italic;
+}
+
+.taskActions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.taskActions input {
+  width: 30px;
+  height: 30px;
+}
